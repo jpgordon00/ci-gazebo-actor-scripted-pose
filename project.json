@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "gazebo-actor-scripted-pose",
+  "repository": "https://github.com/jpgordon00/ci-gazebo-actor-scripted-pose",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/gazebo-actor-scripted-pose/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/gazebo-actor-scripted-pose",
+  "catalog_commit": "c2be45e6ee0403d38cf146d1a540cf33ccd89065"
+}
